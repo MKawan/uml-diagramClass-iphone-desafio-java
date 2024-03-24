@@ -16,3 +16,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+Diagram Iphone Java - challenge DIO 
+
+
+![Iphone-diagrama drawio](https://github.com/MKawan/uml-diagramClass-iphone-desafio-java/assets/51447066/f04bc419-34a3-4a22-9bf0-1e24e8ac89b4)
